@@ -1,0 +1,6 @@
+@import url('./variables.css'); 
+
+
+.font-3{
+    font-size: var(--ion-font-size-medium);
+}
