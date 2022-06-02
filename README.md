@@ -25,7 +25,7 @@ Heroku
 Local
 1. Clona el repositorio de la Api: https://github.com/Sebastian1231998/diary-api y sigue el paso a paso 
 
-2. Crea un archivo .env en la raiz del proyecto ./diary-frontend y agrega una variable que apunto a tu api local 
+2. Crea un archivo .env en la raiz del proyecto ./diary-frontend y agrega una variable que apunte a tu api local 
 
 # Android 
 
