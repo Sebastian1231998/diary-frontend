@@ -32,7 +32,7 @@ Local
 Para arrancar este proyecto en Android debes tener todo instalado previamente como Android Studio, el SDK con el emulador correspondiente, etc. Para ello te dejo una guia 
 de Ionic que explica el paso a paso para que lo puedas hacer https://ionicframework.com/docs/developing/android. 
 
-1. Para correr la app en android la Api debera estar conectad con la aplicación, puedes usar la Api cargada en Heroku para este proposito o subir la api local a un servidor que acepte
+1. Para correr la app en android la Api debera estar conectada con la aplicación, puedes usar la Api cargada en Heroku para este proposito o subir la api local a un servidor que acepte
 Node JS 
 2. Para esta app vamos a utilizar capacitor, por lo tanto para crear tu archivo android puedes ejecutar ionic capacitor add android 
 3. Despues deberas utilizar el comando ionic capacitor copy android 
