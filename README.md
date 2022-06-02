@@ -19,10 +19,12 @@ los pasos para que conectes la App a nuestra Api :
 Heroku
 
 1.Solicita al correo sebas1231998@gmail.com las variables de entorno y te enviare las instrucciones y un correo encriptado con el archivo
+
 2.Agrega el archivo de entorno .env a la raiz del proyecto ./diary-frontend
 
 Local
 1. Clona el repositorio de la Api: https://github.com/Sebastian1231998/diary-api y sigue el paso a paso 
+
 2. Crea un archivo .env en la raiz del proyecto ./diary-frontend y agrega una variable que apunto a tu api local 
 
 # Android 
