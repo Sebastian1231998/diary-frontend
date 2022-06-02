@@ -36,8 +36,7 @@ de Ionic que explica el paso a paso para que lo puedas hacer https://ionicframew
 Node JS 
 2. Para esta app vamos a utilizar capacitor, por lo tanto para crear tu archivo android puedes ejecutar ionic capacitor add android 
 3. Despues deberas utilizar el comando ionic capacitor copy android 
-4. El siguiente paso es correo ionic capacitor run android, recuerda que debes tener configurado el SDK del emulador para que te lo reconozca o puedes abrir android Studio y verificar
-5. que el emulador exista 
+4. El siguiente paso es ejectuar el comando ionic capacitor run android, recuerda que debes tener configurado el SDK del emulador para que te lo reconozca o puedes abrir android Studio y verificar que el emulador exista 
 
 
 
